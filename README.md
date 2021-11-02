@@ -1,2 +1,5 @@
-# My-Contact-form
- Using Html5 / Css3 / ( Not Responsive for Mobile )
+# 2 Colors Contact Form
+> Using
+- Html5 
+-  Css3 
+    - ( Not Responsive for Mobile )
